@@ -1,5 +1,5 @@
 # परीक्षाPortal project
-परीक्षाPortal project using Angular  &amp; Springboot and Mysql
+#परीक्षाPortal project using Angular  &amp; Springboot and Mysql
 ######################software version requirement#######
 #spring boot select in(spring initializr)
 #<version>2.3.3.RELEASE</version>
